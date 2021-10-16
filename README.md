@@ -33,7 +33,7 @@
 
 ### 📬 &nbsp;Contacto
 
-[![Linkedin Badge](https://img.shields.io/badge/-MónicaLamas-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mónica-lamas/)](https://www.linkedin.com/in/antonio-silva-contreras/)
+[![Linkedin Badge](https://img.shields.io/badge/-AntonioSilva-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-silva-contreras/)](https://www.linkedin.com/in/antonio-silva-contreras/)
 
 <!--
 **ansico/ansico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
