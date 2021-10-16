@@ -2,7 +2,7 @@
 
 ### Junior web developer
 
-> Me gusta mucho programar.
+> En continuo aprendizaje!
 
 ### ⚡️ &nbsp;Técnologías
 
