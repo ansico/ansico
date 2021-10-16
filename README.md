@@ -16,12 +16,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=swift&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=plastic&logo=wordpress&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white)
 
 ### ⚙️ &nbsp;Herramientas
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Microsoft-666666?style=plastic&logo=microsoft&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)
