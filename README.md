@@ -17,7 +17,7 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=swift&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=plastic&logo=wordpress&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white)
 
 ### ⚙️ &nbsp;Herramientas
 
