@@ -1,6 +1,6 @@
 ## Hola! Mi nombre es Antonio Silva 👋
 
-### Junior web developer
+### Web developer
 
 > En continuo aprendizaje!
 
